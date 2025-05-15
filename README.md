@@ -17,4 +17,3 @@ cd titanic-ml
 ```bash
 pip install
 ```
-4. **Run all**
