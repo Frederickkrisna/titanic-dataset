@@ -10,8 +10,7 @@ Use passenger data (such as age, gender, class, etc.) to predict survival using 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/titanic-ml.git
-cd titanic-ml
+git clone https://github.com/yourusername/titanic-dataset.git
 ```
 2. **Install dependencies:**
 ```bash
