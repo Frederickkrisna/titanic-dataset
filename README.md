@@ -17,3 +17,7 @@ cd titanic-ml
 ```bash
 pip install
 ```
+3. **Run the web:**
+```bash
+streamlit run app.py [-- script args]
+```
